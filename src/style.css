@@ -378,8 +378,9 @@ a{
         position: fixed;
         width: 100vw;
         display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
         align-items: center;
+        z-index: 1;
 
     }
     .LogoInstagram{
